@@ -6,7 +6,7 @@ import java.awt.Color;
 import java.awt.BasicStroke;
 
 public class Kutu extends JLabel {
-    public int yon = Yon.SAĞ;
+    public int yon = Yon.SAG;
     private int genislik = 20;
 
     public Kutu() {
@@ -29,11 +29,11 @@ public class Kutu extends JLabel {
     public void hareket() {
         if (yon == Yon.SOL) {
             solaGit();
-        } else if (yon == Yon.SAĞ) {
+        } else if (yon == Yon.SAG) {
             sagaGit();
         } else if (yon == Yon.YUKARI) {
             yukariGit();
-        } else if (yon == Yon.AŞAĞI) {
+        } else if (yon == Yon.ASAGI) {
             asagiGit();
         }
     }

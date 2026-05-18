@@ -48,14 +48,14 @@ public class Yilan extends JLabel {
                     }
                     return;
                 }
-                if (e.getKeyCode() == KeyEvent.VK_LEFT && bas.yon != Yon.SAĞ) {
+                if (e.getKeyCode() == KeyEvent.VK_LEFT && bas.yon != Yon.SAG) {
                     bas.yon = Yon.SOL;
                 } else if (e.getKeyCode() == KeyEvent.VK_RIGHT && bas.yon != Yon.SOL) {
-                    bas.yon = Yon.SAĞ;
-                } else if (e.getKeyCode() == KeyEvent.VK_UP && bas.yon != Yon.AŞAĞI) {
+                    bas.yon = Yon.SAG;
+                } else if (e.getKeyCode() == KeyEvent.VK_UP && bas.yon != Yon.ASAGI) {
                     bas.yon = Yon.YUKARI;
                 } else if (e.getKeyCode() == KeyEvent.VK_DOWN && bas.yon != Yon.YUKARI) {
-                    bas.yon = Yon.AŞAĞI;
+                    bas.yon = Yon.ASAGI;
                 }
             }
         });
@@ -89,7 +89,7 @@ public class Yilan extends JLabel {
         }
         liste.clear();
         bas.setBounds(100, 100, 20, 20);
-        bas.yon = Yon.SAĞ;
+        bas.yon = Yon.SAG;
         liste.add(bas);
         skor = 0;
         oyunBitti = false;
