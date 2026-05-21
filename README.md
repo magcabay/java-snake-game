@@ -4,7 +4,6 @@ Klasik Yılan oyununun Java Swing ile geliştirilmiş masaüstü versiyonu.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
@@ -94,9 +93,3 @@ java MySnakeGame
 - **Izgara Sistemi:** 20×20 piksel hücreler
 - **Sınır Algılama:** 10px iç kenarlık ile duvar çarpışması
 - **Tasarım Deseni:** `AnaPencere` için Singleton
-
----
-
-## 📄 Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır.
