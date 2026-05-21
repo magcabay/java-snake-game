@@ -1,3 +1,4 @@
+<img width="655" height="612" alt="Ekran Resmi 2026-05-18 16 39 36" src="https://github.com/user-attachments/assets/a18e8f34-fa41-4e01-a402-db9a53a3a472" />
 # 🐍 Java Snake Game
 
 Klasik Yılan oyununun Java Swing ile geliştirilmiş masaüstü versiyonu.
