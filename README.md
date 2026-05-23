@@ -10,8 +10,8 @@ Klasik Yılan oyununun Java Swing ile geliştirilmiş masaüstü versiyonu.
 ## 📸 Oyun Görünümü
 
 | Oyun İçi | Oyun Bitti |
-|:---------:|:----------:|
-| ![Oyun İçi](screenshots/screenshot_gameplay.png) | ![Oyun Bitti](screenshots/screenshot_game_over.png) |
+| -------- | ---------- |
+| ![Oyun İçi](screenshot_gameplay.png) | ![Oyun Bitti](screenshot_game_over.png) |
 
 ---
 
